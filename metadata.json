@@ -1,0 +1,6 @@
+{
+  "name": "Anime Imposter",
+  "description": "Multiplayer anime hidden-imposter social deduction game with real-time lobbies, secret role assignment, clue rounds, voting, AI practice mode, and rich anime character database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
